@@ -18,4 +18,8 @@ const twitchers = [
     name: "xQc",
     age: 28,
   },
+  {
+    name: "hiiro",
+    age: -1,
+  },
 ];
