@@ -12,3 +12,10 @@ const youtubers = [
     age: 28,
   },
 ];
+
+const twitchers = [
+  {
+    name: "xQc",
+    age: 28,
+  },
+];
